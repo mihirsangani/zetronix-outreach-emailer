@@ -1,0 +1,11 @@
+{
+  "name": "Professional Outreach",
+  "subject_template": "Quick question about {{company}}",
+  "body_template": "Hi {{first_name}},\n\nI hope this email finds you well. I noticed your work at {{company}} and was impressed by {{industry}} innovations.\n\nI'd love to discuss how we might collaborate.\n\nBest regards",
+  "html_template": null,
+  "is_active": true,
+  "ab_test_enabled": true,
+  "subject_template_b": "{{first_name}}, partnership opportunity at {{company}}",
+  "body_template_b": "Hello {{first_name}},\n\nYour work at {{company}} caught my attention, especially in the {{industry}} space.\n\nI believe there's a great partnership opportunity here. Could we schedule a brief call?\n\nLooking forward to hearing from you",
+  "html_template_b": null
+}
